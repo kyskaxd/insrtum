@@ -24,3 +24,4 @@ while current_x <= x_end:
 
 print(f"Локальный минимум функции на отрезке [{x_start}, {x_end}]:")
 print(f"x = {round(min_x, 3)}, y = {round(min_y, 3)}")
+# print(f"Сделал")
